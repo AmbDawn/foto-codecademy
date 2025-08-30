@@ -110,6 +110,7 @@ header .mobile {
   
   header .mobile {
     display: block;
+    width: 100%;
   }
 
   header .content {
